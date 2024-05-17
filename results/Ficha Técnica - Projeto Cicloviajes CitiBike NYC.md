@@ -1,7 +1,5 @@
 # Ficha Técnica - Projeto Cicloviajes
 
-# Ficha Técnica
-
 ## Desafio Técnico Projeto Cicloviajes
 
 ## Análise exploratória do conjunto de dados sobre o uso do programa Citi Bike
