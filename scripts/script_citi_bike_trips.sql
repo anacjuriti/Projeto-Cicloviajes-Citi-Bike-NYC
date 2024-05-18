@@ -105,7 +105,7 @@ FROM riscorelativo.projeto03.citi_bike_trips
 GROUP BY novo_genero, idade, usertype
 ORDER BY novo_genero, idade, usertype;
 
---
+--gender != 'unknown'
 CREATE OR REPLACE TABLE riscorelativo.projeto03.total_viagens_usuarios AS
 SELECT 
     CASE 
