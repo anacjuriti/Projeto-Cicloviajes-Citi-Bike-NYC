@@ -45,7 +45,7 @@ FROM riscorelativo.projeto03.citi_bike_trips;
 SELECT ROUND(COUNT(*) / COUNT(DISTINCT DATE(stoptime)), 2) AS media_viagens_realizadas
 FROM riscorelativo.projeto03.citi_bike_trips;
 
---Máximo, mínimo, média e desvio padrão (opcional) da duração da viagem
+--Máximo, mínimo, média e desvio padrão da duração da viagem
 --Total de viagens (amostra de 50000)
 --max_duracao_minutos (54566.07)
 --min_duracao_minutos (1.0)
@@ -73,7 +73,7 @@ FROM (
     GROUP BY DATE(stoptime)
 ) AS viagens_por_dia;
 
---Total de viagens dos usuários, por sexo, idade e/ou tipo de assinatura
+--Total de viagens dos usuários, por sexo, idade e  tipo de assinatura
 -- total de  292 registros
 SELECT
     gender,
