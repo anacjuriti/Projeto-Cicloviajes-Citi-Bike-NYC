@@ -14,4 +14,5 @@ results/: Resultados das análises, incluindo gráficos e relatórios.
 
 
 ## Dashboard
-![image](https://github.com/anacjuriti/Projeto-Cicloviajes-CitiBikeNYC/assets/108712844/e29cf72d-acfe-4299-a56b-cf34228d3f10)
+![image](https://github.com/anacjuriti/Projeto-Cicloviajes-CitiBikeNYC/assets/108712844/d7c994e7-408e-4884-bfd9-5f17b570df9d)
+
