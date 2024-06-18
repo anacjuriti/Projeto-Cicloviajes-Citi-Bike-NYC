@@ -1,5 +1,6 @@
-# Projeto-Cicloviajes-CitiBike-NYC
-Análise exploratória do conjunto de dados sobre o uso do programa Citi Bike NYC
+# Projeto Cicloviajes CitiBike NYC
+
+## Análise exploratória do conjunto de dados sobre o uso do programa Citi Bike NYC
 
 Este projeto analisa dados de uso do programa de compartilhamento de bicicletas Citi Bike em Nova York, utilizando dados coletados entre 2015 e 2018. O objetivo é compreender padrões de uso, perfis de usuários e fornecer recomendações para melhorias.
 
@@ -11,3 +12,6 @@ scripts/: Scripts SQL com processamento de dados.
 
 results/: Resultados das análises, incluindo gráficos e relatórios.
 
+
+## Dashboard
+![image](https://github.com/anacjuriti/Projeto-Cicloviajes-CitiBikeNYC/assets/108712844/e29cf72d-acfe-4299-a56b-cf34228d3f10)
