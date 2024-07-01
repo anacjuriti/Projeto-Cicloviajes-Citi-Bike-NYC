@@ -1,7 +1,5 @@
 # Projeto Cicloviajes CitiBike NYC
 
-## Análise Exploratória do Programa Citi Bike NYC
-
 Este projeto analisa dados de uso do programa de compartilhamento de bicicletas Citi Bike em Nova York, utilizando dados coletados entre 2015 e 2018, com o objetivo de compreender padrões de uso, perfis de usuários e fornecer recomendações para melhorias.
 
 **data/:** Contém os arquivos de dados utilizados nas análises.
@@ -13,7 +11,9 @@ Este projeto analisa dados de uso do programa de compartilhamento de bicicletas 
 **results/:** Resultados das análises, incluindo gráficos e relatórios.
 
 ---
-## Descrição
+## Análise Exploratória do Programa Citi Bike NYC
+
+### Descrição
 Realizei uma análise exploratória dos dados do programa de compartilhamento de bicicletas Citi Bike NYC para fornecer insights sobre o uso do serviço e identificar padrões e tendências no comportamento dos usuários.
 
 ### Ferramentas e Tecnologias
